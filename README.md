@@ -1,4 +1,3 @@
-THIS IS A REPOSITORY
 <!DOCTYPE html>
 <html lang="en">
 <head>
