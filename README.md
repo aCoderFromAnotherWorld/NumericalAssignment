@@ -123,6 +123,7 @@
 
 <h3>View Results</h3>
 <p>After selecting a method, input any required parameters as prompted by the console. The program will execute the method and display the results directly.</p>
+<li>Video for explaning the app shortly in 2 minute: <a href="https://drive.google.com/file/d/16ksPmfLmEK-rr0NbPeYCmhEEvGz7DBMV/view?usp=drive_link">Click Here</a></li>
 
 <h3>Exit the Program</h3>
 <p>Select <strong>Exit</strong> to close the application.</p>
