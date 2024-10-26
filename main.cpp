@@ -84,7 +84,9 @@ int main()
         }
         case 3:
             cout << "\ta. Runge-Kutta Method\n";
-            char a;cin>>a;
+            char a;
+            cout<<"Choose an option: ";
+            cin>>a;
             if(a == 'a')
             {
                 rungeKuttaMethod();
